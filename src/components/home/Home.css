@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background-color: #3498eb;
+}
+
+a {
+  color: #f2f2f2;
+  height: 100%;
+  padding: 10px 30px;
+  background-color: #222222;
+  border: none;
+  border-radius: 8px;
+}
